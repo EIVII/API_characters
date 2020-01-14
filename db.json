@@ -206,6 +206,17 @@
                 "created": "2014-12-10T16:16:29.192000Z", 
                 "edited": "2014-12-20T21:17:50.325000Z", 
                 "url": "https://swapi.co/api/people/10/"
+            },
+            {
+                "name": "Rula", 
+                "height": "182", 
+                "mass": "77", 
+                "hair_color": "auburn, white", 
+                "skin_color": "fair", 
+                "eye_color": "blue-gray", 
+                "birth_year": "57BBY", 
+                "gender": "male", 
+                
             }
         ]
     }
