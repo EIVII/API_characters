@@ -1,7 +1,3 @@
-HTTP 200 OK
-Content-Type: application/json
-Allow: GET, HEAD, OPTIONS
-Vary: Accept
 
 {
     "results": [
