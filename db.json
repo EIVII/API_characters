@@ -38,6 +38,7 @@
             "eye_color": "yellow", 
             "birth_year": "112BBY", 
             "gender": "n/a", 
+            "imageUrl": "http://mouse.latercera.com/wp-content/uploads/2019/04/star-wars.jpg",
             "homeworld": "https://swapi.co/api/planets/1/", 
             
             "species": [
@@ -57,6 +58,7 @@
             "skin_color": "white, blue", 
             "eye_color": "red", 
             "birth_year": "33BBY", 
+            "imageUrl": "https://www.sideshow.com/storage/product-images/400155/r2-d2_star-wars_feature.jpg",
             "gender": "n/a", 
             "homeworld": "https://swapi.co/api/planets/8/", 
             
