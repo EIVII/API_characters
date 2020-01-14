@@ -4,9 +4,6 @@ Allow: GET, HEAD, OPTIONS
 Vary: Accept
 
 {
-    "count": 87, 
-    "next": "https://swapi.co/api/people/?page=2", 
-    "previous": null, 
     "results": [
         {
             "name": "Luke Skywalker", 
