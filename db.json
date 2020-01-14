@@ -36,7 +36,7 @@
             "skin_color": "white, blue", 
             "eye_color": "red", 
             "birth_year": "33BBY", 
-            "imageUrl": "https://www.sideshow.com/storage/product-images/400155/r2-d2_star-wars_feature.jpg",
+            "imageUrl": "https://media.giphy.com/media/3ornk6WzdmnbTIh8Gs/giphy.gif",
             "gender": "n/a", 
             "homeworld": "https://swapi.co/api/planets/8/", 
             
@@ -76,7 +76,8 @@
             "eye_color": "brown", 
             "birth_year": "19BBY", 
             "gender": "female", 
-            "homeworld": "https://swapi.co/api/planets/2/", 
+            "imageUrl":"https://media1.giphy.com/media/l0GRkYJ1bIwmmd7YA/giphy.gif?cid=790b7611503b7978f99eaa1ebce9a90cc722dcb9e8c2a4de&rid=giphy.gif",
+            "homeworld": "?", 
              
             "species": [
                 "https://swapi.co/api/species/1/"
