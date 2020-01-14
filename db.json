@@ -12,6 +12,7 @@
             "birth_year": "19BBY", 
             "gender": "male", 
             "homeworld": "Galactica", 
+            "imageUrl":"https://www.bolsamania.com/cine/wp-content/uploads/2015/03/151.jpg",
        
             "species": [
                 "https://swapi.co/api/species/1/"
