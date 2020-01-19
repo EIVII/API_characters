@@ -163,7 +163,21 @@
         }
     ]
         
+    },
+    {
+    "films":
+    {
+     "results_fi":[
+    {
+        "name": "return of jedi",
+        "id_film": "2"
+    },
+    {
+        "name": "The mandalorian",
+        "id_film": "3"
     }
-  
+    ]
+    }
+ }
 }    
     
