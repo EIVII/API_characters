@@ -77,8 +77,8 @@
             "birth_year": "unknown", 
             "gender": "Astromech Droid", 
             "homeworld": "unknown", 
-            "imageUrl":"https://media1.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif?cid=790b76117ed25427c134a4df324fafc33a8148030785f903&rid=giphy.gif",
-            "description":"A skittish but loyal astromech, BB-8 has accompanied Poe Dameron on many missions for the Resistance, helping to keep his X-wing in working order. When Poe’s mission to Jakku ended with his capture by the First Order, BB-8 fled into the desert with a vital clue to the location of Jedi Master Luke Skywalker. He rejoined Poe and the service of the Resistance in time for the attack on Starkiller Base, then helped Rey locate Skywalker’s planet of exile. Loaded with a wide array of helpful tools and devices, he continues his service to the Resistance and his friends."
+            "imageUrl":"https://media1.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif?cid=790b76117ed25427c134a4df324fafc33a8148030785f903&rid=giphy.gif"
+            
 
         }, 
         {
@@ -86,8 +86,8 @@
             "birth_year": "57BBY", 
             "gender": "male", 
             "homeworld": "Stewjon", 
-            "imageUrl":"https://media2.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif?cid=790b76113ba6fc3588889e584215946863d4be4fdb08743b&rid=giphy.gif",
-            "description":"A legendary Jedi Master, Obi-Wan Kenobi was a noble man and gifted in the ways of the Force. He trained Anakin Skywalker, served as a general in the Republic Army during the Clone Wars, and guided Luke Skywalker as a mentor."
+            "imageUrl":"https://media2.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif?cid=790b76113ba6fc3588889e584215946863d4be4fdb08743b&rid=giphy.gif"
+            
         }
     ]
         
