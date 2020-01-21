@@ -91,43 +91,9 @@
         }
     ]
         
-    },
+    }
   
-   "films":
-        {
-         "results_fi":[
-        {
-            "name": "A New Hope",
-            "id_film": "1",
-            "filmPoster": "https://i.pinimg.com/474x/fa/16/f2/fa16f296698d489dbd48928b4e58d796.jpg"
-        },
-        {
-            "name": "The Empire Strikes Back",
-            "id_film": "2",
-            "filmPoster": "https://i.pinimg.com/474x/8a/3d/a5/8a3da578451a78d022c0721d058aa87d--the-empire-strikes-back-star-wars-poster.jpg"   
-        },
-        {
-            "name": "Return of the Jedi",
-            "id_film": "3",
-            "filmPoster": "https://i.pinimg.com/564x/af/26/d1/af26d1025ccd169ca90ad0b330d39f28.jpg"
-        },
-        {
-            "name": "The Phantom Menace",
-            "id_film": "4",
-            "filmPoster": "https://i.pinimg.com/564x/47/ac/6c/47ac6cd46aa1a41bd9e3c0ffd6aadbcc.jpg"        
-        },
-        {
-            "name": "Attack of the Clones",
-            "id_film": "5",
-            "filmPoster": "https://i.pinimg.com/564x/3c/93/aa/3c93aa269d28c7eda14be578e6922213.jpg"
-        },
-        {
-            "name": "Revenge of the Sith ",
-            "id_film": "6",
-            "filmPoster": "https://i.pinimg.com/564x/86/3f/93/863f931adb9f112b97d80095ce3fe1e4.jpg"
-        }
-        ]
-        }
+
     
 }    
     
