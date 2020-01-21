@@ -6,73 +6,46 @@
             "name": "Luke Skywalker",   
             "birth_year": "19BBY", 
             "gender": "male", 
-            "homeworld": "Galactica", 
+            "homeworld": "Polis Massa", 
             "imageUrl":"https://media3.giphy.com/media/Xjo8pbrphfVuw/giphy.gif?cid=790b7611e04850e3636dfc88b48155e2bfb9247816960809&rid=giphy.gif",
+            "description":"Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s greatest mysteries. Haunted by Ben Solo’s fall to evil and convinced the Jedi had to end, Luke sought exile on a distant world, ignoring the galaxy’s pleas for help. But his solitude would be interrupted – and Luke Skywalker had one final, momentous role to play in the struggle between good and evil.",
             "backGround":"https://i.pinimg.com/originals/d2/61/2e/d2612ea25ed8c84d1bf1101ed55f4886.png"
         }, 
         {
             "name": "C-3PO", 
             "birth_year": "112BBY", 
-            "gender": "n/a", 
+            "gender": "Protocol Droid", 
             "imageUrl": "https://media1.giphy.com/media/KGmoTveWlSxJS/giphy.gif?cid=790b7611a7e92c64ed878a52ac21cc623568e3f0c2f08a36&rid=giphy.gif",
-            "homeworld": "Republic", 
+            "homeworld": "Tatooine", 
+            "description":"C-3PO longs for more peaceful times, but his continued service to the Resistance — and his knowledge of more than seven million forms of communication — keeps the worry-prone droid in the frontlines of galactic conflict. Programmed for etiquette and protocol, Threepio was built by a young Anakin Skywalker, and has been a constant companion to astromech R2-D2. Over the years, he was involved in some of the galaxy’s most defining moments and thrilling battles. Since the Empire’s defeat, C-3PO has served Leia Organa, head of a Resistance spy ring aimed at undermining the First Order.",
             "backGround":"https://i.pinimg.com/originals/d2/61/2e/d2612ea25ed8c84d1bf1101ed55f4886.png"
             
           
         }, 
         {
-            "name": "R2-D2", 
-            "height": "96", 
-            "mass": "32", 
-            "hair_color": "n/a", 
-            "skin_color": "white, blue", 
-            "eye_color": "red", 
+            "name": "R2-D2",  
             "birth_year": "33BBY", 
             "imageUrl": "https://media.giphy.com/media/3ornk6WzdmnbTIh8Gs/giphy.gif",
-            "gender": "n/a", 
-            "homeworld": "https://swapi.co/api/planets/8/", 
+            "gender": "Astromech Droid", 
+            "homeworld": "Naboo",
+            "description":"The ever-reliable and versatile astromech droid R2-D2 continues his service to the Resistance, becoming a vital link in operations against the First Order. Over many years, R2-D2 has served Padmé Amidala, Anakin Skywalker, and Luke Skywalker in turn, showing great bravery in rescuing his masters and their friends from many perils. A skilled starship mechanic and fighter pilot's assistant, he has an unlikely but enduring friendship with the fussy protocol droid C-3PO.",
             "backGround":"https://i.pinimg.com/originals/d2/61/2e/d2612ea25ed8c84d1bf1101ed55f4886.png"
         }, 
         {
             "name": "Darth Vader", 
             "birth_year": "41.9BBY", 
             "gender": "male", 
-            "homeworld": "imperial",
+            "homeworld": "Death Start",
+            "description":"Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire’s eradication of the Jedi Order. He remained in service of the Emperor -- the evil Darth Sidious -- for decades, enforcing his Master’s will and seeking to crush the fledgling Rebel Alliance. But there was still good in him…",
             "imageUrl":"https://media.giphy.com/media/xT9DPpf0zTqRASyzTi/giphy.gif",
-            
-            "species": [
-                "https://swapi.co/api/species/1/"
-            ], 
-            "vehicles": [], 
-            "starships": [
-                "https://swapi.co/api/starships/13/"
-            ], 
-            "created": "2014-12-10T15:18:20.704000Z", 
-            "edited": "2014-12-20T21:17:50.313000Z", 
-            "url": "https://swapi.co/api/people/4/"
         }, 
         {
             "name": "Leia Organa", 
-            "height": "150", 
-            "mass": "49", 
-            "hair_color": "brown", 
-            "skin_color": "light", 
-            "eye_color": "brown", 
             "birth_year": "19BBY", 
             "gender": "female", 
             "imageUrl":"https://media1.giphy.com/media/l0GRkYJ1bIwmmd7YA/giphy.gif?cid=790b7611503b7978f99eaa1ebce9a90cc722dcb9e8c2a4de&rid=giphy.gif",
-            "homeworld": "?", 
-             
-            "species": [
-                "https://swapi.co/api/species/1/"
-            ], 
-            "vehicles": [
-                "https://swapi.co/api/vehicles/30/"
-            ], 
-            "starships": [], 
-            "created": "2014-12-10T15:20:09.791000Z", 
-            "edited": "2014-12-20T21:17:50.315000Z", 
-            "url": "https://swapi.co/api/people/5/"
+            "homeworld": "Polis Massa", 
+            "description":"Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearless on the battlefield and dedicated to ending the tyranny of the Empire. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranks among the galaxy’s great heroes. But life under the New Republic has not been easy for Leia. Sidelined by a new generation of political leaders, she struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career have been accompanied by more personal losses."
         }, 
         {
             "name": "Baby Yoda", 
@@ -80,11 +53,7 @@
             "birth_year": "52BBY", 
             "gender": "male", 
             "homeworld": "Mandalorian", 
-            
-        
-            "created": "2014-12-10T15:52:14.024000Z", 
-            "edited": "2014-12-20T21:17:50.317000Z", 
-            "url": "https://swapi.co/api/people/6/"
+            "description":"Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearless on the battlefield and dedicated to ending the tyranny of the Empire. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranks among the galaxy’s great heroes. But life under the New Republic has not been easy for Leia. Sidelined by a new generation of political leaders, she struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career have been accompanied by more personal losses."
         }, 
         {
             "name": "Mando",
@@ -92,58 +61,33 @@
             "birth_year": "47BBY", 
             "gender": "Male", 
             "homeworld": "Mandalorian", 
-             
-            "species": [
-                "https://swapi.co/api/species/1/"
-            ], 
-            "vehicles": [], 
-            "starships": [], 
-            "created": "2014-12-10T15:53:41.121000Z", 
-            "edited": "2014-12-20T21:17:50.319000Z", 
-            "url": "https://swapi.co/api/people/7/"
+            "description":"Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearless on the battlefield and dedicated to ending the tyranny of the Empire. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranks among the galaxy’s great heroes. But life under the New Republic has not been easy for Leia. Sidelined by a new generation of political leaders, she struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career have been accompanied by more personal losses."
+
         }, 
         {
             "name": "Kylo Ren", 
             "imageUrl":"https://media2.giphy.com/media/3o7abvUZvVPRpm3ueY/giphy.gif?cid=790b761145471df579d703ffdc17f0fa38441d3cae5bd337&rid=giphy.gif",
-
             "birth_year": "unknown", 
             "gender": "male", 
             "homeworld": "unknown", 
-            
-            
-         
-            "created": "2014-12-10T15:57:50.959000Z", 
-            "edited": "2014-12-20T21:17:50.321000Z", 
-            "url": "https://swapi.co/api/people/8/"
+            "description":"As Supreme Leader of the First Order, Kylo Ren wields more power than ever before. The son of Han Solo and Leia Organa, Ben Solo was seduced by the dark side of the Force and renamed himself Kylo Ren, becoming the First Order’s champion and Supreme Leader Snoke’s student. Kylo killed his father and his master and now seeks to destroy his mother’s Resistance while he continues to search for secrets of the Force from the depths of the dark side."
         }, 
         {
             "name": "BB8", 
-       
             "birth_year": "unknown", 
-            "gender": "Robot", 
+            "gender": "Astromech Droid", 
             "homeworld": "unknown", 
             "imageUrl":"https://media1.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif?cid=790b76117ed25427c134a4df324fafc33a8148030785f903&rid=giphy.gif",
-            "created": "2014-12-10T15:59:50.509000Z", 
-            "edited": "2014-12-20T21:17:50.323000Z", 
-            "url": "https://swapi.co/api/people/9/"
+            "description":"A skittish but loyal astromech, BB-8 has accompanied Poe Dameron on many missions for the Resistance, helping to keep his X-wing in working order. When Poe’s mission to Jakku ended with his capture by the First Order, BB-8 fled into the desert with a vital clue to the location of Jedi Master Luke Skywalker. He rejoined Poe and the service of the Resistance in time for the attack on Starkiller Base, then helped Rey locate Skywalker’s planet of exile. Loaded with a wide array of helpful tools and devices, he continues his service to the Resistance and his friends."
+
         }, 
         {
             "name": "Obi-Wan Kenobi", 
             "birth_year": "57BBY", 
             "gender": "male", 
-            "homeworld": "?", 
+            "homeworld": "Stewjon", 
             "imageUrl":"https://media2.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif?cid=790b76113ba6fc3588889e584215946863d4be4fdb08743b&rid=giphy.gif",
-
-            "starships": [
-                "https://swapi.co/api/starships/48/", 
-                "https://swapi.co/api/starships/59/", 
-                "https://swapi.co/api/starships/64/", 
-                "https://swapi.co/api/starships/65/", 
-                "https://swapi.co/api/starships/74/"
-            ], 
-            "created": "2014-12-10T16:16:29.192000Z", 
-            "edited": "2014-12-20T21:17:50.325000Z", 
-            "url": "https://swapi.co/api/people/10/"
+            "description":"A legendary Jedi Master, Obi-Wan Kenobi was a noble man and gifted in the ways of the Force. He trained Anakin Skywalker, served as a general in the Republic Army during the Clone Wars, and guided Luke Skywalker as a mentor."
         }
     ]
         
